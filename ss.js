@@ -1,6 +1,4 @@
 function(){
-  var a=2;
+  var a=1;
   console.log(a);
-  var b=3;
-  console.log(b);
 }
