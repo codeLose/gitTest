@@ -4,4 +4,6 @@ function(){
 
   var b=2;
   console.log(b);
+
+  var ssss
 }
